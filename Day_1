@@ -1,7 +1,25 @@
-#why python for devops?
-shell script and python, Both we can use for DevOps.
-shell script is used only linux operating system. python can useLinux, windows, mac os
-devops most of use linux OS, it's secure, linux command line interace. 
-daily task like memory, storage day to day activites use to script.
-shell designed only Linux OS.
-python designed mac, windows and kinux
+# what is python?
+
+python is programming lanugage, it was created by Guido van Rossum, and released in 1991
+
+#why python ?
+python works on different platform windows, linux, mac os
+python has simple syntax similar to english lanuag
+Python runs interpreter system.
+
+# most begginer have in mind, what can python do?
+webdevelopment(server side)
+Server-side development ( Django, Flask )
+Data Science ( Pytorch, Tensor-flow )
+Data analysis / Visualisation ( Matplotlib )
+Scripting ( Beautiful Soup )
+
+# install python
+ open terminal to check if python available or not
+
+python3 --version
+# if avilable You can see version
+python 3.7.0
+
+#Not available,
+Go to pthon website, click on download python
